@@ -66,15 +66,14 @@ class BooksApp extends React.Component {
                         	    <WantToRead books={this.state.books} updateShelf={this.updateShelf} />
                         	    <Read books={this.state.books} updateShelf={this.updateShelf} />
 							</div>
-						
+							
+							<div className="open-search">
+        				      	<Link to='search'>Add a book</Link>
+            				</div>
+
 						</div>
                    )}/>
             </div>
-            
-			<div className="open-search">
-              	<Link to='search'>Add a book</Link>
-            </div>
-
           </div>
         }
       </div>
