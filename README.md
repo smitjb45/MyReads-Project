@@ -9,6 +9,8 @@ Type these commands into your commnadline
 ## Project Summery
 This was a fun project that I did through Udacity. The project uses React.js to build books that I am reading waiting to read or want to read. I can also search for new books and add them to the shelf/list.
 
+![screen shot 2017-11-18 at 11 52 22 pm](https://user-images.githubusercontent.com/11069807/32988558-b6490750-ccbb-11e7-8bf7-c5bc11db9760.png)
+
 ## TL;DR
 
 To get started developing right away:
