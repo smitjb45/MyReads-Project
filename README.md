@@ -2,9 +2,10 @@
 
 ## To Start
 
-Type these commands into your commnadline
--npm install
--npm start
+Type these commands into your commmad-line
+
+* npm `install`
+* npm `start`
 
 ## Project Summery
 This was a fun project that I did through Udacity. The project uses React.js to build books that I am reading waiting to read or want to read. I can also search for new books and add them to the shelf/list.
